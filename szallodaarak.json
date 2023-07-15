@@ -1,0 +1,230 @@
+{
+  "-N_Ksfq19RV7T6qDUHZC": {
+    "Alapar": 4670,
+    "Gyerekekszáma": 106,
+    "VendegekSzama": 386,
+    "nev": "Balatonszemes elő-utószezon"
+  },
+  "-N_Ksfq5Ezqyb5bupkz9": {
+    "Alapar": 5800,
+    "Gyerekekszáma": 202,
+    "VendegekSzama": 179,
+    "nev": "Balatonszemes rendkívüli"
+  },
+  "-N_Ksfq6FBzZBlFMWMUS": {
+    "Alapar": 6430,
+    "Gyerekekszáma": 498,
+    "VendegekSzama": 342,
+    "nev": "Bogács-Jurta"
+  },
+  "-N_Ksfq78EhsAj4l0XU8": {
+    "Alapar": 4700,
+    "Gyerekekszáma": 211,
+    "VendegekSzama": 328,
+    "nev": "Fadd-Dombori-Motel"
+  },
+  "-N_Ksfq8BHa0X3_iDGa8": {
+    "Alapar": 4700,
+    "Gyerekekszáma": 53,
+    "VendegekSzama": 306,
+    "nev": "Fadd-Domb.Faházak"
+  },
+  "-N_Ksfq9WGlzPHkOkFv9": {
+    "Alapar": 3670,
+    "Gyerekekszáma": 398,
+    "VendegekSzama": 368,
+    "nev": "Fadd-Domb.Holdfény elő/utó"
+  },
+  "-N_Ksfq9WGlzPHkOkFvA": {
+    "Alapar": 4870,
+    "Gyerekekszáma": 361,
+    "VendegekSzama": 498,
+    "nev": "Fadd-Domb.Holdfény főszez"
+  },
+  "-N_KsfqAFQMntD3TH4h-": {
+    "Alapar": 5080,
+    "Gyerekekszáma": 215,
+    "VendegekSzama": 365,
+    "nev": "Gyula"
+  },
+  "-N_KsfqB_3ETLtBnw6AB": {
+    "Alapar": 4400,
+    "Gyerekekszáma": 226,
+    "VendegekSzama": 62,
+    "nev": "Gyomaendrőd"
+  },
+  "-N_KsfqB_3ETLtBnw6AC": {
+    "Alapar": 6220,
+    "Gyerekekszáma": 70,
+    "VendegekSzama": 462,
+    "nev": "Hajduszob.-Bungalló"
+  },
+  "-N_KsfqC1nwoYrA5BkMT": {
+    "Alapar": 5400,
+    "Gyerekekszáma": 251,
+    "VendegekSzama": 428,
+    "nev": "Hajduszob.-Kolesz"
+  },
+  "-N_KsfqDg2VFNTz-HPQy": {
+    "Alapar": 5710,
+    "Gyerekekszáma": 353,
+    "VendegekSzama": 409,
+    "nev": "Kaszó"
+  },
+  "-N_KsfqDg2VFNTz-HPQz": {
+    "Alapar": 5630,
+    "Gyerekekszáma": 109,
+    "VendegekSzama": 127,
+    "nev": "Nagycenk"
+  },
+  "-N_KsfqECUrKJzZ5byo2": {
+    "Alapar": 5000,
+    "Gyerekekszáma": 362,
+    "VendegekSzama": 368,
+    "nev": "Orfű"
+  },
+  "-N_KsfqECUrKJzZ5byo3": {
+    "Alapar": 4070,
+    "Gyerekekszáma": 449,
+    "VendegekSzama": 385,
+    "nev": "Szilvásvárad elő/utó"
+  },
+  "-N_KsfqFDwe4XUsetemd": {
+    "Alapar": 5590,
+    "Gyerekekszáma": 361,
+    "VendegekSzama": 120,
+    "nev": "Szilvásvárad főszez"
+  },
+  "-N_KsfqFDwe4XUseteme": {
+    "Alapar": 6690,
+    "Gyerekekszáma": 97,
+    "VendegekSzama": 422,
+    "nev": "Sopron"
+  },
+  "-N_KsfqGP5HIuky2Iiqs": {
+    "Alapar": 4150,
+    "Gyerekekszáma": 349,
+    "VendegekSzama": 294,
+    "nev": "Visegrád ELTE elő/utó"
+  },
+  "-N_KsfqGP5HIuky2Iiqt": {
+    "Alapar": 4740,
+    "Gyerekekszáma": 440,
+    "VendegekSzama": 369,
+    "nev": "Visegrád ELTE főszez"
+  },
+  "-N_KsfqHut6-Pwsi3kRA": {
+    "Alapar": 5700,
+    "Gyerekekszáma": 428,
+    "VendegekSzama": 468,
+    "nev": "Szeged Napfény"
+  },
+  "-N_KsfqHut6-Pwsi3kRB": {
+    "Alapar": 5890,
+    "Gyerekekszáma": 289,
+    "VendegekSzama": 319,
+    "nev": "Győr"
+  },
+  "-N_KsfqHut6-Pwsi3kRC": {
+    "Alapar": 4390,
+    "Gyerekekszáma": 396,
+    "VendegekSzama": 295,
+    "nev": "Visegrád MTA elő/utó"
+  },
+  "-N_KsfqIp-JJ38RtiVnR": {
+    "Alapar": 6490,
+    "Gyerekekszáma": 433,
+    "VendegekSzama": 239,
+    "nev": "Visegrád MTA főszezon"
+  },
+  "-N_KsfqIp-JJ38RtiVnS": {
+    "Alapar": 7400,
+    "Gyerekekszáma": 146,
+    "VendegekSzama": 205,
+    "nev": "Hajduszob. elő-utószezon"
+  },
+  "-N_KsfqJ0tIJH_1T9nTU": {
+    "Alapar": 8000,
+    "Gyerekekszáma": 55,
+    "VendegekSzama": 90,
+    "nev": "Hajduszob. Szezon"
+  },
+  "-N_KsfqJ0tIJH_1T9nTV": {
+    "Alapar": 5820,
+    "Gyerekekszáma": 386,
+    "VendegekSzama": 481,
+    "nev": "Szentendre Danubius elő/utó"
+  },
+  "-N_KsfqKpslFhXj7X2zC": {
+    "Alapar": 6870,
+    "Gyerekekszáma": 296,
+    "VendegekSzama": 170,
+    "nev": "Szentendre Danubius főszez"
+  },
+  "-N_KsfqKpslFhXj7X2zD": {
+    "Alapar": 4390,
+    "Gyerekekszáma": 258,
+    "VendegekSzama": 466,
+    "nev": "Hévíz Hotel Alba elő/utó"
+  },
+  "-N_KsfqL2FPtHMKoagKk": {
+    "Alapar": 6270,
+    "Gyerekekszáma": 147,
+    "VendegekSzama": 370,
+    "nev": "Hévíz hotel Alba főszez"
+  },
+  "-N_KsfqL2FPtHMKoagKl": {
+    "Alapar": 4270,
+    "Gyerekekszáma": 200,
+    "VendegekSzama": 237,
+    "nev": "Hévíz Villa Rosa elő/utó"
+  },
+  "-N_KsfqMaBN_qFuQwEbA": {
+    "Alapar": 6130,
+    "Gyerekekszáma": 352,
+    "VendegekSzama": 278,
+    "nev": "Hévíz Villa Rosa főszez"
+  },
+  "-N_KsfqMaBN_qFuQwEbB": {
+    "Alapar": 4100,
+    "Gyerekekszáma": 82,
+    "VendegekSzama": 94,
+    "nev": "Hévíz Hotel Palota elő/utó"
+  },
+  "-N_KsfqNi8YYLJX8OLWs": {
+    "Alapar": 4800,
+    "Gyerekekszáma": 161,
+    "VendegekSzama": 283,
+    "nev": "Hévíz Hotel Palota főszez"
+  },
+  "-N_KsfqNi8YYLJX8OLWt": {
+    "Alapar": 5850,
+    "Gyerekekszáma": 289,
+    "VendegekSzama": 150,
+    "nev": "Harkány-Platán"
+  },
+  "-N_KsfqOs65xecP-COjS": {
+    "Alapar": 8650,
+    "Gyerekekszáma": 335,
+    "VendegekSzama": 294,
+    "nev": "Pécs-Diánna"
+  },
+  "-N_KsfqOs65xecP-COjT": {
+    "Alapar": 8280,
+    "Gyerekekszáma": 453,
+    "VendegekSzama": 229,
+    "nev": "Szeged Familia "
+  },
+  "-N_KsfqOs65xecP-COjU": {
+    "Alapar": 4460,
+    "Gyerekekszáma": 399,
+    "VendegekSzama": 355,
+    "nev": "Zalakaros elő/utó"
+  },
+  "-N_KsfqPNTmAN0zTC4Po": {
+    "Alapar": 6330,
+    "Gyerekekszáma": 195,
+    "VendegekSzama": 107,
+    "nev": "Zalakaros főszezon"
+  }
+}
