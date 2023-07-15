@@ -1,0 +1,19 @@
+<!-- {{szallodaarak|json}} -->
+<div class="row">
+    <div *ngFor="let oszlop of oszlopok" class="col">
+        {{oszlop.text}}
+    </div>
+    <div class="col">Műveletek</div>
+</div>
+
+<div *ngFor="let szalloda of szallodaarak" class="row">
+    <div *ngFor="let oszlop of oszlopok" class="col">
+        
+        <input [type]="oszlop.type" [(ngModel)]="szalloda[oszlop.key]"  class="form-control">
+
+    </div>
+    <div class="col">
+        <button (click)="save(szalloda)" type="button" class="btn btn-primary">Save</button>
+        <button (click)="delete(szalloda)" type="button" class="btn btn-secondary">Delete</button>
+    </div>
+</div>

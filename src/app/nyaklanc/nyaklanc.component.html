@@ -1,0 +1,13 @@
+<div class="row">
+    <div *ngFor="let nyaklanc of nyaklancok" class="col-4">
+        <div class="card">
+            <img class="card-img-top" [src]="nyaklanc.kep" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ékszer</h5>
+              <p class="card-text">{{nyaklanc.nev}}</p>
+              <h5 class="card-title">{{nyaklanc.ar}} Ft</h5>
+              <button (click)="vasarlas(nyaklanc)" class="btn btn-primary">Megveszem</button>
+            </div>
+          </div>
+    </div>
+</div>
